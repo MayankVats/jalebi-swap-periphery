@@ -1,0 +1,20 @@
+{
+  "name": "jalebi-swap-periphery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "hardhat": "^2.8.4"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4"
+  }
+}
